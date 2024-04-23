@@ -1,0 +1,41 @@
+[
+    {
+        "name" : "Ahmad",
+        "Age" : "22",
+        "Nationality" : "Saudi",
+        "Gender" : "Male",
+        "Grade" : 89
+    }
+    ,
+    {
+        "name" : "Mohammed",
+        "Age" : "22",
+        "Nationality" : "Saudi",
+        "Gender" : "Male",
+        "Grade" : 83
+    }
+    ,
+    {
+        "name" : "Ziyad",
+        "Age" : "21",
+        "Nationality" : "Saudi",
+        "Gender" : "Male",
+        "Grade" : 85
+    }
+    ,
+    {
+        "name" : "Faisal",
+        "Age" : "22",
+        "Nationality" : "Saudi",
+        "Gender" : "Male",
+        "Grade" : 91
+    }
+    ,
+    {
+        "name" : "Rayan",
+        "Age" : "20",
+        "Nationality" : "Saudi",
+        "Gender" : "Male",
+        "Grade" : 59
+    }
+]

@@ -1,0 +1,42 @@
+ <!doctype html>
+ <html>
+    <head>
+        <meta charset="utf-8">
+        <title>HW1-CSS</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <style>
+            .container{
+                padding: 50px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border: 2px solid gray;
+                margin: 10px;
+            }
+            @media screen and (max-width: 480px) {
+                body {
+                    background-color: darkcyan;
+                }
+            }
+        </style>
+        
+        <div class="container" id="firstDiv">
+            <p>
+                This is <span style="font-weight : bold;">Inline Element</span> with bold style 
+            <br>in a div box with 50px padding and margin
+            <br><span style="color : red;">and a conflicting style</span>
+            </p>
+            <div style="display: block;position: relative; top: 70px; right: 150px">
+                <p>Hover</p>
+            </div>
+        </div>
+        <div class="back-button-container">
+            <a href="../../index.html">
+            <button class="back-button">Back</button>
+            </a>
+        </div>
+
+    </body>
+ </html>
